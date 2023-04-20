@@ -1,2 +1,2 @@
 # SoftwareEnginnering
-There are many branches that represent the TP of Java.
+TP12 Java DataBase Connection (JDBC)
